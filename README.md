@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassine Ouardani
 
-AI Engineer | MLOps Engineer | Computer Vision Engineer
+AI Engineer | Data Engineer | Computer Vision Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bechir-yassine-ouardani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassineouardani381@gmail.com)
